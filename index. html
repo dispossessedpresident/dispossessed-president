@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>অধিকারবঞ্চিতদের রাষ্ট্র</title>
+  <style>
+    body {
+      background-color: #f4f4f4;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #0f0f0f;
+    }
+    img {
+      max-width: 90%;
+      height: auto;
+      margin-top: 20px;
+      border: 2px solid #000;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>অধিকারবঞ্চিতদের রাষ্ট্র</h1>
+  <p>এই মাইক্রোনেশন সব নিপীড়িত ও উপেক্ষিত মানুষের পক্ষে কাজ করে।</p>
+  <img src="flag.png" alt="Flag of the State of the Dispossessed" />
+</body>
+</html>
